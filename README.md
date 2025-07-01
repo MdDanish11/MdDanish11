@@ -10,8 +10,7 @@
 
 
 ## 🔥 GitHub Streak
-![Md Danish's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MdDanish11&theme=dark)
-
+![GitHub Streak](https://streak-stats.demolab.com/?user=MdDanish11&theme=dark)
 
 
 
