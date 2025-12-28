@@ -10,7 +10,7 @@
 
 
 ## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=MdDanish11&theme=dark&date=20251029)
+![GitHub Streak](https://streak-stats.demolab.com/?user=MdDanish11&theme=dark&date=20251227)
 
 
 
