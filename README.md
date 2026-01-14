@@ -5,12 +5,15 @@
 - 📫 How to reach me hussaindanish466@gmail.com
   
   ## 📊 My GitHub Stats
-![Md Danish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MdDanish11&show_icons=true&theme=dark&count_private=true)
+<!-- ![Md Danish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MdDanish11&show_icons=true&theme=dark&count_private=true) -->
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MdDanish11&show_icons=true&theme=dark)
+
 
 
 
 ## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=MdDanish11&theme=dark&date=20251227)
+<!-- ![GitHub Streak](https://streak-stats.demolab.com/?user=MdDanish11&theme=dark&date=20251227)-->
+![GitHub Streak](https://streak-stats.demolab.com/?user=MdDanish11&theme=dark)
 
 
 
