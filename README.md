@@ -2,7 +2,6 @@
 - 👀 I’m interested in Full Stack Development.
 - 🌱 I’m currently learning ReactJS and its applications. 
 - 💞️ I’m looking to collaborate on React Native.
-- 📫 How to reach me hussaindanish466@gmail.com
   
   ## 📊 My GitHub Stats
 <!-- ![Md Danish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MdDanish11&show_icons=true&theme=dark&count_private=true) -->
